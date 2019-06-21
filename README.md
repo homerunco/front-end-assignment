@@ -24,7 +24,7 @@ The app should adhere to the following requirements:
 - Questions should be a mix of true/false and multiple choice
 
 ### Others
+- Unit testing the application would be nice, but not mandatory.
 - At Homerun, we value good design. Of course we’re looking for a developer and not a designer - but we do value a keen eye for design. So bonus points if you can not only make it look pretty but also user friendly
 - If you’re feeling particularly ambitious, try to make the app work for 2 people - where each person alternating answers a question
-- Lastly, feel free to add your own twist to the game - but make sure that you satisfy the requirements written above
-- Design your application anyway you want. Focus on clean, reusable code. Show us that you know how to produce high quality applications
+- Feel free to add your own twist to the game - but make sure that you satisfy the requirements written above
