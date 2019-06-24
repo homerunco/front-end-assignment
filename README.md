@@ -2,11 +2,8 @@
 
 The purpose of this assignment is for the developer to exhibit his familiarity with front-end technologies, programming patterns and to provide a sample of what clean and reusable code means.
 
-### Constraints
-
-- Use Vue
-- Feel free to arrange the scaffolding of the application the way you want: the current one is the default template from `vue-cli`
-- Fork this repository and provide additional information if needed
+### Requirements
+Use Vue and CSS-Modules
 
 ### Assignment
 
@@ -28,3 +25,7 @@ The app should adhere to the following requirements:
 - At Homerun, we value good design. Of course we’re looking for a developer and not a designer - but we do value a keen eye for design. So bonus points if you can not only make it look pretty but also user friendly
 - If you’re feeling particularly ambitious, try to make the app work for 2 people - where each person alternating answers a question
 - Feel free to add your own twist to the game - but make sure that you satisfy the requirements written above
+
+
+Feel free to arrange the scaffolding of the application the way you want: the current one is the default template from `vue-cli`
+
