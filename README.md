@@ -1,9 +1,16 @@
 ### Introduction
 
-The purpose of this assignment is for the developer to exhibit his familiarity with front-end technologies, programming patterns and to provide a sample of what clean and reusable code means.
+The purpose of this assignment is for the developer to exhibit their familiarity with front-end technologies, programming patterns and to provide a sample of what clean and reusable code means.
 
-### Requirements
-Use Vue and CSS-Modules
+You should spend between 4 and 8 hours on this, depending on your familiarity with Vue. 
+
+### How to succeed
+* Fellow engineers will be reading and reviewing your code - try to imagine how you would want to review someone else's code. What would you like to see?
+* Perfect is the enemy of done! We're looking to assess your technical capabilities, not what type of app you would build if you would have unlimited time available. As a business we're always balancing time and quality. When making trade-offs to optimize for time - be explicit!
+* Write code in your own way - you should be able to explain your reasoning later on. It's good to look at best practices, but make sure you understand _why_ they're best practices to begin with.
+
+### Technical requirements
+The only technical requirement we have is that you use Vue and CSS-Modules.
 
 ### Assignment
 
@@ -22,9 +29,8 @@ The app should adhere to the following requirements:
 
 ### Others
 - Unit testing the application would be nice, but not mandatory.
-- At Homerun, we value good design. Of course we’re looking for a developer and not a designer - but we do value a keen eye for design. So bonus points if you can not only make it look pretty but also user friendly
-- If you’re feeling particularly ambitious, try to make the app work for 2 people - where each person alternating answers a question
-- Feel free to add your own twist to the game - but make sure that you satisfy the requirements written above
+- At Homerun, we value good design. Of course we’re looking for a developer and not a designer - but be mindful of what type of UX you're creating.
+- Feel free to add your own twist to the game - but make sure that you satisfy the requirements written above!
 
 
 Feel free to arrange the scaffolding of the application the way you want: the current one is the default template from `vue-cli`
